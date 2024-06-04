@@ -1,11 +1,11 @@
 "use client";
 import React, { useState } from "react";
-const page = () => {
+const contact = () => {
   return (
     <div>
-      <h1>Home Page</h1>
+      <h1>Contact Page</h1>
     </div>
   );
 };
 
-export default page;
+export default contact;
